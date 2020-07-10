@@ -8,4 +8,4 @@ Our Web Application will help Students in selecting foreign universities for hig
 3. Along with helping students and teachers with facilities available near the college.
 4. We are building a web app and can be viewed on any browser making it easy to access. 
 5. It’ll have a provision where current and ex-students can tell about where they live, eat and how they     manage their expenses (Student Blogs).
-6. Tech Stack - HTML5, CSS3, Javascript, Firebase.
+6. Tech Stack - HTML5, CSS3, Javascript, Bootstrap, Firebase.
